@@ -1,0 +1,9 @@
+the device ID is A005001. 
+Parcel ID: that’s the parcel tracking number in the express, that’s not the information we can provide. 
+You can enter a random number as the test for now if you don’t have a parcel. 
+Phone no.: that’s the phone number of yours or the receiver phone number, it’s for the SMS receiving.
+
+Credentials:
+Company name: sPost
+Account: A005
+Password: SAP123
